@@ -75,26 +75,6 @@ heroi1.atacar(); // O guerreiro atacou usando espada
 heroi2.atacar(); // O mago atacou usando magia
 heroi3.atacar(); // O monge atacou usando artes marciais
 heroi4.atacar(); // O ninja atacou usando shuriken
-🚀 Como Executar o Projeto
-Clone o repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Acesse a pasta do projeto:
-
-bash
-Copiar
-Editar
-cd nome-do-repositorio
-Execute o arquivo:
-
-bash
-Copiar
-Editar
-node index.js
-Você pode testar criando seus próprios heróis e observando os ataques diferentes de cada classe.
 
 🧠 Aprendizados
 Esse projeto me ajudou a fixar melhor conceitos como:
