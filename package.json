@@ -1,0 +1,10 @@
+{
+  "name": "escrevendo-as-classes-de-um-jogo",
+  "version": "1.0.0",
+  "description": "> Professional JavaScript project implementing Escrevendo As Classes De Um Jogo",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "license": "MIT"
+}
